@@ -1,0 +1,13 @@
+{
+  "name": "mathwarrior-backend",
+  "version": "1.0.0",
+  "description": "数学小勇士 后端服务：集中存储所有玩家的账号与进度，支持跨设备管理/封禁",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "private": true
+}
