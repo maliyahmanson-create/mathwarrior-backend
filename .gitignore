@@ -1,0 +1,5 @@
+# Runtime data — never commit the live player database
+data/*.json
+node_modules/
+*.log
+.DS_Store
